@@ -1,1 +1,1 @@
-# exploring-ml-and-analytics
+# Data Visualization and Analytics
